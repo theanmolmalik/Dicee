@@ -1,0 +1,19 @@
+* {
+  background-color:whitesmoke;
+}
+
+h1 {
+  text-align: center;
+  font-size: 10vh;
+}
+
+.player {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  text-align: center;
+}
+
+img{
+  margin-top:5vh;
+}
